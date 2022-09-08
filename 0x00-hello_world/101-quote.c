@@ -1,4 +1,3 @@
-#!/bin/bash
 #include<unistd.h>
 /**
  * main - prints the standrad error sandwiched around the  standard outpu/t
